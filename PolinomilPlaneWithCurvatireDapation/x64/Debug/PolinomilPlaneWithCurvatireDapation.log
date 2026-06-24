@@ -1,0 +1,95 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\ominaiev1\source\repos\polinomilplanewithcurvatiredapation\x64\debug\polinomilplanewithcurvatiredapation.exe' is denied.
+  HyperME.cpp
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\MyMetrologyEngine.h(64,24): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'HyperME.cpp')
+  
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(155,31): warning C4101: 'rMaxPoint': unreferenced local variable
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(155,42): warning C4101: 'rMinPoint': unreferenced local variable
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(155,21): warning C4101: 'minPoint': unreferenced local variable
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(155,11): warning C4101: 'maxPoint': unreferenced local variable
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(193,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(193,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(193,60): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,29): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,29): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,29): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,29): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,29): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,37): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,37): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,37): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,37): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,37): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,44): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,44): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,44): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,44): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,44): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,50): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,50): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,50): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,50): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(207,50): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,23): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,23): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,23): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,23): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,23): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,29): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,29): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,29): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,29): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,29): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,34): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,34): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,34): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,34): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,34): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,46): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,46): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,46): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,46): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(208,46): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,50): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,50): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,50): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,50): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,50): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,56): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,56): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,56): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,56): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,56): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,62): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,62): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,62): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,62): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,62): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,73): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,73): warning C4305:         with
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,73): warning C4305:         [
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,73): warning C4305:             _Ty=float
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(209,73): warning C4305:         ]
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(223,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(223,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(270,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(388,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(389,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\HyperME.cpp(439,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MyMetrologyEngine.cpp
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\MyMetrologyEngine.h(64,24): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'MyMetrologyEngine.cpp')
+  
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\MyMetrologyEngine.cpp(347,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\MyMetrologyEngine.cpp(374,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\MyMetrologyEngine.cpp(536,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\MyMetrologyEngine.cpp(537,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  PlyUtilities.cpp
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\PlyUtilities.cpp(29,22): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\PlyUtilities.cpp(30,22): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  PolinomilPlaneWithCurvatireDapation.cpp
+C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\PolinomilPlaneWithCurvatireDapation\MyMetrologyEngine.h(64,24): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'PolinomilPlaneWithCurvatireDapation.cpp')
+  
+  Generating Code...
+  PolinomilPlaneWithCurvatireDapation.vcxproj -> C:\Users\ominaiev1\source\repos\PolinomilPlaneWithCurvatireDapation\x64\Debug\PolinomilPlaneWithCurvatireDapation.exe
