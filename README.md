@@ -13,8 +13,8 @@ Visual Studio project folder: `PolinomilPlaneWithCurvatireDapation`.
 3. **Fits a polynomial surface** `z = f(x, y)` of degree 2, 3 or 4 using least squares on normalised coordinates.
 4. **Picks the polynomial degree automatically** by comparing the average Gaussian curvature of fits at different degrees.
 5. **Classifies points** by distance to the fitted surface:
-   - 🟢 **green**: on the nominal surface (within the tolerance band)
-   - 🔴 **red**: off the surface (grooves, holes, defects)
+   -  **green**: on the nominal surface (within the tolerance band)
+   -  **red**: off the surface (grooves, holes, defects)
 6. **Aligns** the cloud to the part's X or Y axis (several strategies available).
 7. **Measures** groove and hole areas by integrating widths across scan lines.
 8. **Annotates** the cloud with text labels (for example, measured values) rendered as point rectangles.
